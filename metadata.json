@@ -1,0 +1,5 @@
+{
+  "name": "Paradice Trinity Web Bot",
+  "description": "A web-based version of the Paradice Trinity roulette bot with real-time tracking and Telegram integration.",
+  "requestFramePermissions": []
+}
